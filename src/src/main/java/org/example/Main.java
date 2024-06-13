@@ -6,5 +6,6 @@ public class Main {
         System.out.println("TestRep2!");
         System.out.println("TestRep2!");
         System.out.println("TestRep2!");
+        System.out.println("TestRep2!");
     }
 }
